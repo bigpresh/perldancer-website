@@ -25,9 +25,9 @@ commit some ideas to the crew.
 
 <p>
 So you're using it and you've found a bug, that's great! Yes, Great. Because a
-bug found is a bug in the way of being fixed. <a
-href="http://rt.cpan.org/Public/Bug/Report.html?Queue=Dancer">Report it</a>, 
-but take care it's not yet filled before.
+bug found is a bug ready to be fixed. <a
+href="http://www.github.com/sukria/Dancer/issues">Report it</a>, 
+but take care it's not yet filed before.
 </p>
 
 <h3>Submit Patches</h3>
